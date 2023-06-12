@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="apply.lua" type="client" cache="false"/>
+    <file src="assets/picture.txd"/>
+    <file src="assets/picture.dff"/>
+</meta>

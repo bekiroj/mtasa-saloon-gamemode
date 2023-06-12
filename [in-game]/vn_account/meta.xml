@@ -1,0 +1,10 @@
+<meta>
+    <oop>true</oop>
+    <script src="libs/class.lua" type="client" cache="false"/>
+    <script src="ui/index.lua" type="client" cache="false"/>
+    <script src="src/server.lua" type="server"/>
+    <file src="assets/logo.png"/>
+    <file src="assets/key.mp3"/>
+    <file src="assets/err.mp3"/>
+    <min_mta_version client="1.5.8-9.20844"></min_mta_version>
+</meta>

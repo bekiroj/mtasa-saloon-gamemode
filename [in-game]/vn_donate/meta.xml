@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+	<script src="libs/class.lua" type="client" cache="false"/>
+	<script src="ui/index.lua" type="client" cache="false"/>
+
+	<script src="server.lua" type="server"/>
+	<export function="giveVip" type="server"/>
+</meta>

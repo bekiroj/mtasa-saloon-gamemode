@@ -1,0 +1,12 @@
+<meta>
+    <oop>true</oop>
+
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server"/>
+
+    <export function="formatMoney" type="client"/>
+    <export function="takeMoney" type="server"/>
+    <export function="giveKillMoney" type="server"/>
+    <export function="giveMoney" type="server"/>
+    <export function="sendChat" type="server"/>
+</meta>

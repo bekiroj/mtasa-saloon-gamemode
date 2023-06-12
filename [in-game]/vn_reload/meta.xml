@@ -1,0 +1,6 @@
+<meta>
+	<info description="Realistic Reload" type="script" author="Fenix1053" name="quickreload" version="2.0.1"/>
+  
+	<script src="server.lua" type="server"/>
+	<script src="client.lua" type="client"/>
+</meta>

@@ -1,0 +1,7 @@
+addEvent("hood.win", true)
+addEventHandler("hood.win", root, function()
+    source:setHealth(100)
+    source:setArmor(100)
+    exports.vn_utils:giveMoney(source, 500)
+    exports.vn_utils:sendChat(source, "You've earned $500 and health/armor because your gang won the hood area.")
+end)

@@ -1,0 +1,8 @@
+<meta>
+    <oop>true</oop>
+    <script src="apply.lua" type="client" cache="false"/>
+    <file src="assets/skate.txd"/>
+    <file src="assets/skate.dff"/>
+    <file src="assets/skate2.txd"/>
+    <file src="assets/skate2.dff"/>
+</meta>

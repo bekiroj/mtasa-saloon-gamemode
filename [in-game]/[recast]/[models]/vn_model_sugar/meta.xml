@@ -1,0 +1,6 @@
+<meta>
+    <oop>true</oop>
+    <script src="apply.lua" type="client" cache="false"/>
+    <file src="assets/bat.txd"/>
+    <file src="assets/bat.dff"/>
+</meta>

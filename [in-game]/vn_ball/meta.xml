@@ -1,0 +1,7 @@
+<meta>
+    <!-- @bekiroj liblua basketball-->
+    <oop>true</oop>
+    <script src='libs/classes.lua' type='client' cache='false'/>
+    <script src='index.lua' type='client' cache='false'/>
+    <script src='events.lua' type='server'/>
+</meta>
